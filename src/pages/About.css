@@ -1,0 +1,17 @@
+.App {
+    background-color: #24032b;
+    background-image: linear-gradient(328deg, #24032b 4%, #350e4e 32%, #000000 78%);
+  }
+  
+  .App-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .App-logo {
+    margin-top: 9px;
+    height: 10vmin;
+    width: 7%;
+  }
